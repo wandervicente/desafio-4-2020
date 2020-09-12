@@ -53,7 +53,7 @@ Idade,Local de trabalho,Pontuação teste,Departmento,Distancia casa-trabalho,Ed
 39,Misto,613,Engenharia,6,Médio completo,Medicina,1,2062,4,M,42,2,3,Analista,1,Casado,9991,21457,4,1,Não,15,3,1,80,1,9,5,3,7,7,1,7
 27,Cliente,155,Engenharia,4,Superior completo,Ciências das natureza,1,2064,2,M,87,4,2,Supervisor,2,Casado,6142,5174,1,1,Sim,20,4,2,80,1,6,0,3,6,2,0,3
 49,Misto,1023,Vendas,2,Superior completo,Medicina,1,2065,4,M,63,2,2,Vendedo senior,2,Casado,5390,13243,2,1,Não,14,3,4,80,0,17,3,2,9,6,0,8
-34,,628,Engenharia,8,Superior completo,Medicina,1,2068,2,M,82,4,2,Tecnico,3,Casado,4404,10228,2,1,Não,12,3,1,80,0,6,3,4,4,3,1,2
+34,Misto,628,Engenharia,8,Superior completo,Medicina,1,2068,2,M,82,4,2,Tecnico,3,Casado,4404,10228,2,1,Não,12,3,1,80,0,6,3,4,4,3,1,2
 41,Misto,1102,Vendas,1,Superior incompleto,Ciências das natureza,1,1,2,F,94,3,2,Vendedo senior,4,Solteiro,5993,19479,8,1,Sim,11,3,1,80,0,8,0,1,6,4,0,5
 37,Misto,1373,Engenharia,2,Superior incompleto,Outros,1,4,4,M,92,2,1,Tecnico,3,Solteiro,2090,2396,6,1,Sim,15,3,2,80,0,7,3,3,0,0,0,0
 28,Misto,103,Engenharia,24,Superior completo,Ciências das natureza,1,19,3,M,50,2,1,Tecnico,3,Solteiro,2028,12947,5,1,Sim,14,3,2,80,0,6,4,3,4,2,0,3
